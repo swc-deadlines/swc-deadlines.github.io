@@ -8,6 +8,7 @@
   description: International Semantic Web Conference
   link: https://iswc2024.semanticweb.org/
   deadline: ["2024-04-17 23:59"]
+  
   place: Live! Casino & Hotel Maryland, USA 
   date: November 11-15
   tags: [SW, CONF]
@@ -18,6 +19,7 @@
   date: "26 - 28 NOV"
   link: https://ekaw.org/
   deadline: ["2024-07-05 23:59"]
+  comment: Abstracts due July 1 (AoE)
   date: November 26-28
   place: Amsterdam, Netherland
   tags: [SW, KG, CONF]
@@ -28,6 +30,7 @@
   date: "17 - 19 SEP"
   link: https://2024-eu.semantics.cc/
   deadline: ["2024-05-13 23:59"]
+  comment: Abstracts due May 6 (AoE)
   date: September 17-19
   place: Amsterdam, Netherland
   tags: [SW, CONF]
