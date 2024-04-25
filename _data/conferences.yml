@@ -3,11 +3,11 @@
 # Semantic Web and Conference
   
 - name: ISWC
+  date: "11 - 15 NOV"
   year: 2024
   description: International Semantic Web Conference
   link: https://iswc2024.semanticweb.org/
-  deadline:
-    - "2024-04-017 23:59"
+  deadline: ["2024-04-017 23:59"]
   place: Live! Casino & Hotel Maryland, USA 
   date: November 11-15
   tags: [SW, KG, CONF]
@@ -15,10 +15,9 @@
 - name: EKAW
   description: Conferences on Knowledge Engineering and Knowledge Management
   year: 2024
-  date: "26 - 28 NOVx"
+  date: "26 - 28 NOV"
   link: https://ekaw.org/
-  deadline:
-    - "2024-07-05 23:59"
+  deadline: ["2024-07-05 23:59"]
   date: November 26-28
   place: Amsterdam, Netherland
   tags: [SW, KG, CONF]
