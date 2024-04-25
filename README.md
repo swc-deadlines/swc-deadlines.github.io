@@ -1,6 +1,6 @@
 # Semantic Web and Knowledge Graph deadlines countdown
 
-Based on [sec-deadlines](https://sec-deadline.github.io) by @hiddenmarkov
+Based on [sec-deadlines](https://sec-deadlines.github.io) by @hiddenmarkov
 
 ## Adding/updating a conference
 
