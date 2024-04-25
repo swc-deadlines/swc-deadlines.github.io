@@ -61,7 +61,7 @@
         </div>
       </div>
       <div class="conf-container">
-        {% assign sorted_conferences = site.data.conferences | sort_natural: 'deadline' %}
+        {% assign sorted_conferences = site.data.conferences | sort: 'num_deadlines' %}
         {% for conf in sorted_conferences %}
         {% assign num_deadlines = conf.deadline.size %}
         {% assign range_end = conf.deadline.size | minus: 1 %}
