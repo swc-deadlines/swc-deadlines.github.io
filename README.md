@@ -76,6 +76,7 @@ The timezone is specified in [tz format][1]. Unlike abbreviations (e.g. EST), th
 | Eastern Standard Time (UTC-5) | `Etc/GMT+5`                                                        |
 | American Samoa Time (UTC-11)  | `Pacific/Samoa` or `Etc/GMT+11`. This timezone does not use DST.   |
 | Aleutian Islands              | `America/Adak`                                                     |
+
 [0]: https://momentjs.com/timezone/docs/#/zone-object/offset/
 [1]: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 [2]: https://www.timeanddate.com/time/zones/aoe
