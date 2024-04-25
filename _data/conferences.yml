@@ -31,3 +31,13 @@
   date: September 17-19
   place: Amsterdam, Netherland
   tags: [SW, KG, CONF]
+
+  - name: WWW
+  description:  International World Wide Web Conference
+  year: 2024
+  date: "13 - 17 MAY"
+  link: https://www2024.thewebconf.org/
+  deadline: ["2024-10-12 23:59"]
+  date: May 13-17
+  place: Singapore
+  tags: [WWW, CONF]
