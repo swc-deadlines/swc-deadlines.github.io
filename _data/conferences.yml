@@ -10,7 +10,7 @@
   deadline: ["2024-04-17 23:59"]
   place: Live! Casino & Hotel Maryland, USA 
   date: November 11-15
-  tags: [SW, KG, CONF]
+  tags: [SW, CONF]
 
 - name: EKAW
   description: Conferences on Knowledge Engineering and Knowledge Management
@@ -30,9 +30,9 @@
   deadline: ["2024-04-29 23:59"]
   date: September 17-19
   place: Amsterdam, Netherland
-  tags: [SW, KG, CONF]
+  tags: [SW, CONF]
 
-  - name: WWW
+- name: WWW
   description:  International World Wide Web Conference
   year: 2024
   date: "13 - 17 MAY"
@@ -41,3 +41,14 @@
   date: May 13-17
   place: Singapore
   tags: [WWW, CONF]
+
+- name: ESWC
+  description:  The Extended Semantic Web Conference
+  year: 2024
+  date: "26 - 30 MAY"
+  link: https://2024.eswc-conferences.org/
+  deadline: ["2023-12-07 23:59"]
+  date: May 26-30
+  place: Hersonnisos, Greece
+  tags: [SW, CONF]
+ 
