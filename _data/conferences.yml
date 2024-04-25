@@ -51,4 +51,14 @@
   date: May 26-30
   place: Hersonnisos, Greece
   tags: [SW, CONF]
+
+- name: KCAP
+  description: International Conference on Knowledge Capture
+  year: 2023
+  date: "5 - 7 DEC"
+  link: https://www.k-cap.org/2023/
+  deadline: ["2023-09-01 23:59"]
+  date: December 5-7
+  place: Pensacola, Florida, USA
+  tags: [KG, CONF]
  
