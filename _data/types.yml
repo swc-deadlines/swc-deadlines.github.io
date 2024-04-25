@@ -1,0 +1,12 @@
+---
+- name: Knowledge Graphs
+  tag: KG
+- name: Semantic Web
+  tag: SW
+- name: Linked Data
+  tag: LD
+- name: Conference
+  tag: CONF
+- name: Workshop
+  tag: SHOP
+  
