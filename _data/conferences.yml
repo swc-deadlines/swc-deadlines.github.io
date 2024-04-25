@@ -33,17 +33,17 @@
   tags: [SW, CONF]
 
 - name: WWW
-  description:  International World Wide Web Conference
+  description: International World Wide Web Conference
   year: 2024
   date: "13 - 17 MAY"
   link: https://www2024.thewebconf.org/
-  deadline: ["2024-10-12 23:59"]
+  deadline: ["2023-10-12 23:59"]
   date: May 13-17
   place: Singapore
   tags: [WWW, CONF]
 
 - name: ESWC
-  description:  The Extended Semantic Web Conference
+  description: The Extended Semantic Web Conference
   year: 2024
   date: "26 - 30 MAY"
   link: https://2024.eswc-conferences.org/
