@@ -65,3 +65,13 @@
   place: Pensacola, Florida, USA
   tags: [KG, CONF]
  
+- name: KGSWC
+  description: International Knowledge Graph and Semantic Web Conference
+  year: 2024
+  date: "11 - 13 DEC"
+  link: https://www.kgswc.org/
+  deadline: ["2023-07-31 23:59"]
+  date: December 11-13
+  place: Université Paris Cité, Paris, France
+  tags: [KG, SW, CONF]
+ 
