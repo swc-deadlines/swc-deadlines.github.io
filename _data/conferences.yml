@@ -81,8 +81,9 @@
   date: "2 - 4 DEC"
   link: https://www.iiwas.org/conferences/iiwas2024/
   deadline: ["2024-06-07 23:59"]
+  timezone: CEST
   date: December 2-4
   place: Bratislava, Slovakia
   tags: [KG, WWW, CONF]
-  timezone: CEST
+
  
