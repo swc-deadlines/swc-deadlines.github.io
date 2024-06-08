@@ -86,4 +86,14 @@
   place: Bratislava, Slovakia
   tags: [KG, WWW, CONF]
 
+  - name: WSDM
+  description: ACM International Conference on Web Search and Data Mining
+  year: 2025
+  date: "10 - 14 MAR"
+  link: https://www.wsdm-conference.org/2025/
+  deadline: ["2024-08-14 23:59"]
+  date: March 10-14
+  place: Hannover, Germany
+  tags: [WWW, CONF]
+
  
