@@ -37,12 +37,12 @@
 
 - name: WWW
   description: International World Wide Web Conference
-  year: 2024
-  date: "13 - 17 MAY"
-  link: https://www2024.thewebconf.org/
-  deadline: ["2023-10-12 23:59"]
-  date: May 13-17
-  place: Singapore
+  year: 2025
+  date: "28 April - 2 MAY"
+  link: https://www2025.thewebconf.org/
+  deadline: ["2023-10-07 23:59"]
+  date: April 28 - May 2
+  place: Australia
   tags: [WWW, CONF]
 
 - name: ESWC
