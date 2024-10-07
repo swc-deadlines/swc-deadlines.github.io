@@ -48,12 +48,13 @@
 
 - name: ESWC
   description: The Extended Semantic Web Conference
-  year: 2024
-  date: "26 - 30 MAY"
-  link: https://2024.eswc-conferences.org/
-  deadline: ["2023-12-07 23:59"]
-  date: May 26-30
-  place: Hersonnisos, Greece
+  year: 2025
+  date: "1 - 5 JUNE"
+  link: https://2025.eswc-conferences.org/
+  deadline: ["2024-12-19 23:59"]
+  comment: Abstracts due December 12 (AoE)
+  date: June 1-5
+  place: Portoroz, Slovenia
   tags: [SW, CONF]
 
 - name: KCAP
