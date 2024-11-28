@@ -26,13 +26,13 @@
 
 - name: SEMANTiCS
   description: International Conference on Semantic Systems
-  year: 2024
-  date: "17 - 19 SEP"
-  link: https://2024-eu.semantics.cc/
-  deadline: ["2024-05-13 23:59"]
-  comment: Abstracts due May 6 (AoE)
-  date: September 17-19
-  place: Amsterdam, Netherland
+  year: 2025
+  date: "3 - 5 SEP"
+  link: https://2025-eu.semantics.cc/
+  deadline: ["2025-05-02 23:59"]
+  comment: Abstracts due April 25 (AoE)
+  date: September 3-5
+  place: Vienna, Austria
   tags: [SW, CONF]
 
 - name: WWW
