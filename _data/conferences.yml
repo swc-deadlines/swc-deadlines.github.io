@@ -59,12 +59,12 @@
 
 - name: KCAP
   description: International Conference on Knowledge Capture
-  year: 2023
-  date: "5 - 7 DEC"
-  link: https://www.k-cap.org/2023/
+  year: 2025
+  date: "10 - 12 DEC"
+  link: https://www.k-cap.org/2025/
   deadline: ["2023-09-01 23:59"]
   date: December 5-7
-  place: Pensacola, Florida, USA
+  place: Dayton, Ohio, USA
   tags: [KG, CONF]
 
 - name: KGSWC
