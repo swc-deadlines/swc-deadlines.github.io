@@ -102,11 +102,11 @@
 
 - name: CIKM
   description: ACM International Conference on Information and Knowledge Management
-  year: 2024
-  date: "21 - 25 OCT"
-  link: https://cikm2024.org/
-  deadline: ["2024-05-20 23:59"]
-  comment: Abstracts due May 13 (AoE)
-  date: October 21-25
-  place: Boise, USA
+  year: 2025
+  date: "10 - 14 NOV"
+  link: https://cikm2025.org/
+  deadline: ["2025-06-17 23:59"]
+  comment: Abstracts due June 10 (AoE)
+  date: November 10-14
+  place: Coex, Seoul, Korea
   tags: [KG, CONF]
