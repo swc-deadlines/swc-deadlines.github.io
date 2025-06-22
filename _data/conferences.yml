@@ -62,7 +62,8 @@
   year: 2025
   date: "10 - 12 DEC"
   link: https://www.k-cap.org/2025/
-  deadline: ["2023-09-01 23:59"]
+  deadline: ["2025-07-28 23:59"]
+  comment: Abstracts due July 21st (AoE)
   date: December 5-7
   place: Dayton, Ohio, USA
   tags: [KG, CONF]
