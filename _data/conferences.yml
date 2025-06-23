@@ -70,12 +70,12 @@
 
 - name: KGSWC
   description: International Knowledge Graph and Semantic Web Conference
-  year: 2024
-  date: "11 - 13 DEC"
+  year: 2025
+  date: "26 - 28 NOV"
   link: https://www.kgswc.org/
-  deadline: ["2024-09-07 23:59"]
-  date: December 11-13
-  place: Université Paris Cité, Paris, France
+  deadline: ["2024-07-31 23:59"]
+  date: November 26-28
+  place: HTWK, Leipzig, Germany
   tags: [KG, SW, CONF]
 
 - name: iiWAS
