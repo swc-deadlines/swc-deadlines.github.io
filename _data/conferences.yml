@@ -68,6 +68,27 @@
   place: Dayton, Ohio, USA
   tags: [KG, CONF]
 
+- name: CIKM
+  description: International Conference on Information and Knowledge Management
+  year: 2025
+  date: "10 - 14 Nov"
+  link: https://cikm2025.org/
+  deadline: ["2025-05-23 23:59"]
+  comment: Abstracts due May 16th (AoE)
+  date: November 10-14
+  place: Coex, Seoul, Korea
+  tags: [KG, CONF]
+
+- name: IJCKG
+  description: International Joint Conference on Knowledge Graphs
+  year: 2025
+  date: "15 - 17 Oct"
+  link: https://ijckg2025.github.io/
+  deadline: ["2025-07-24 23:59"]
+  date: October 15-17
+  place: Heraklion, Crete, Greece
+  tags: [KG, CONF]
+
 - name: KGSWC
   description: International Knowledge Graph and Semantic Web Conference
   year: 2025
